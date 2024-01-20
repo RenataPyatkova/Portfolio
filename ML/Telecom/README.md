@@ -1,5 +1,5 @@
-**Описание:** Прогнозирую отток телеком компании, имея данные о клиентах, их тарифах и активности.
+**Description:** Predicting the churn of a telecom company by having data about customers, their rates and activity.
 
-**Выводы:** Как было выяснено в ходе исследования, метод оплаты и тип оплаты имеют некоторое влияние на лояльность клиента. Выше было показано, что среди оставшихся клиентов превалирует тип оплаты ежемесячный, в то время как среди ушедших все типы оплаты одинаково популярны. 
+**Conclusions:** As it was found out in the study, payment method and payment type have some impact on customer loyalty. It has been shown above that among the retained customers, monthly payment type is prevalent while among the departed customers, all payment types are equally popular. Therefore, it is recommended to encourage customers to switch to monthly payment type
 
-**Инструменты:** Matplotlib,Pandas,Python,Scikit-learn
+**Tools:** Matplotlib,Pandas,Python,Scikit-learn
