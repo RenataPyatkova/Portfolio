@@ -1,7 +1,7 @@
-**Описание:** Разрабатываю систему рекомендаций стоимости автомобиля на основе его описания, пробега и других технических характеристик.
+**Description:** I am developing a system to recommend the value of a car based on its description, mileage and other technical characteristics.
 
-**Вывод:** Таким образом, после обработки данных, заполнения пропусков, удаления выбросов, мы смогли обучить три модели машинного обучения RF, Catboost, XGBoost. Модели градиентного бустинга справляются значительно быстрее RF. Для получения окончательного результата использвовали модель XGBoost.
+**Summary:** So after processing the data, filling in the gaps, removing outliers, we were able to train three machine learning models RF, Catboost, XGBoost. The gradient bousting models performed significantly faster than RF. For the final result, we used the XGBoost model.
 
-**Инструменты:** Pandas,Python, sklearn, catboost
+**Tools:** Pandas,Python, sklearn, catboost
 
 
