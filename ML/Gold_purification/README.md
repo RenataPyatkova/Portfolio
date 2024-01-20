@@ -1,7 +1,7 @@
-**Описание:** Прогнозирую концентрацию золота при проведении процесса очистки золота, основываясь на исторических данных.
+**Description:** I predict the concentration of gold during the gold purification process based on historical data.
 
-**Выводы:** Проанализировав концентрации веществ на разных этапах очистки, можно прийти к выводу, что очистка происходит корректно, концентрация золота увеличивается, посторонние вещества удаляются из смеси. Данные полные, хорошо описывающие весь процесс, следовательно, можно было приступать к построению модели. Лучшей моделью для предсказания признака восстановления золота из руды стала RandomForestRegressor
+**Conclusions:** Having analyzed the concentrations of substances at different stages of purification, we can conclude that the purification is correct, the concentration of gold increases, extraneous substances are being removed from the mixture. After filling in the data and describing the whole process, it was possible to start building the model. The best model for predicting the gold recovery rate from ore was RandomForestRegressor
 
-**Инструменты:** Matplotlib,NumPy,Pandas,Python,Scikit-learn
+**Tools:** Matplotlib,NumPy,Pandas,Python,Scikit-learn
 
 
